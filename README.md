@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Trust me I have great projects in webdev, LLMs, machine learning and overall development. The companies I work with want me to keep them private.<br><br>My current project ideas:<br>To implement neural networks in c (not started yet)<br><br>I am good in python<br>On the way to learn typescript.</p>
+<p align="left">Harsh knows about Web development, hosting, machine learning, LLMs, model shipping. If he doesnt know about something, give him some time. He'll learn it before it goes out of trend. More importantly, Harsh is a fast learner and really loves tech.</p>
 
 ###
 
