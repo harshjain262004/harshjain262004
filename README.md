@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Harsh knows about Web development, hosting, machine learning, LLMs, model shipping. If he doesnt know about something, give him some time. He'll learn it before it goes out of trend. More importantly, Harsh is a fast learner and really loves tech.</p>
+<p align="left">Harsh knows about Web development, Backend Optimisations, hosting, machine learning, LLMs, model shipping. If he doesnt know about something, give him some time. He'll learn it before it goes out of trend. More importantly, Harsh is a fast learner and really loves tech.</p>
 
 ###
 
